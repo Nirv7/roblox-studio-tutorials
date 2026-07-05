@@ -13,11 +13,11 @@ Download the scripts or copy them in the appropriate services within your Roblox
 
 ## Tutorial
 
-Watch the tutorial : 
+Watch the tutorial : https://youtu.be/QjzDZd9iZA8
 
 
 
-Subscribe :) : 
+Subscribe :) : https://youtube.com/@nirv2407?si=toU2U81fRxzSMrE_
 ---
 
 Thank you for checking out this and If you found it helpful, consider ⭐ starring this repository and subscribing for more Roblox Studio tutorials.
