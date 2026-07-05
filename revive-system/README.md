@@ -1,19 +1,20 @@
-# Revive System Roblox studio
+# Revive System
 
-This folder contains all the scripts used in my Roblox Studio Revive System tutorial.
+This folder contains the scripts used in my Roblox Studio **Revive System** tutorial.
 
-## Scripts
-| ReviveServer.lua (ServerScriptService) 
-| ReviveClient.lua (local script)
+## Files
 
-- HOW - 
-1. Download the scripts.
-2. Copy them into your Roblox Studio game.
-3. Place each script in the correct service.
-4. Play and test.
+- `ReviveServer.lua`
+- `ReviveClient.lua`
 
-Watch the full tutorial on YouTube: 
+## Getting Started
 
-## ⭐ Support
+Download the scripts or copy them in the appropriate services within your Roblox Studio project i mentioned in the video.
 
-If this helped you, consider starring this repository!
+## Tutorial
+
+Watch the tutorial : 
+Subscribe :) : 
+---
+
+Thank you for checking out this project! If you found it helpful, consider ⭐ starring this repository and subscribing for more Roblox Studio tutorials.
