@@ -2,7 +2,7 @@
 
 This folder contains the scripts used in my **"How To Make a Tycoon Game in 20 Minutes"** Roblox Studio tutorial.
 
-## 📂 Included
+## 📂 Included scripts :
 
 – Main
 – DataSave
