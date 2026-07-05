@@ -20,4 +20,4 @@ Watch the tutorial :
 Subscribe :) : 
 ---
 
-Thank you for checking out this project! If you found it helpful, consider ⭐ starring this repository and subscribing for more Roblox Studio tutorials.
+Thank you for checking out this and If you found it helpful, consider ⭐ starring this repository and subscribing for more Roblox Studio tutorials.
